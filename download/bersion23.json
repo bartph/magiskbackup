@@ -3,7 +3,7 @@
     "version": "23.0",
     "versionCode": "23000",
     "link": "https://raw.githubusercontent.com/bartph/magiskbackup/main/download/Magisk-v23.0.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
+    "note": "https://raw.githubusercontent.com/bartph/magiskbackup/main/download/23000.md"
   },
   "stub": {
     "versionCode": "23000",
