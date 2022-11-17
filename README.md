@@ -1,2 +1,2 @@
 # magiskbackup
-magisk23
+备份 magisk 23.0 经典版本
