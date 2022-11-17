@@ -7,6 +7,6 @@
   },
   "stub": {
     "versionCode": "23000",
-    "link": "https://raw.kgithub.com/topjohnwu/magisk-files/23.0/stub-release.apk"
+    "link": "https://raw.githubusercontent.com/bartph/magiskbackup/main/download/stub-release.apk"
   }
 }
